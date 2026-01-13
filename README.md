@@ -1,2 +1,2 @@
-Opintovuosi 2
-- periodi 3
+Suunnittelumallit kurssi (Metropolia)
+- Opintovuosi 2
